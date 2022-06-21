@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Sidecutterr
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning React Dapp,Solidity,Html,Css,Javascript
+- 👀 I’m interested in NFT.
+- 🌱 I’m currently learning React Dapp,Solidity,Html,Css,Javascript.
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me Sidecutterr@gmail.com
 
